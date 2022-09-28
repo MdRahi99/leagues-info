@@ -1,0 +1,5 @@
+.selected-items-container{
+    position: sticky;
+    top: 0;
+    padding: 10px 0px;
+}

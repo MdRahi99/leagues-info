@@ -1,0 +1,32 @@
+.leagues-details{
+    background-color: rgb(14, 60, 85);
+    border-radius: 8px;
+    position: relative;
+}
+.league-items{
+    height: 180px;
+}
+
+.btn-select{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    border: none;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding: 8px 0px;
+    font-size: 16px;
+    background-color: rgb(53, 99, 108);
+    color: rgb(244, 246, 247);
+}
+.btn-select .icon{
+    margin-left: 5px;
+}
+
+.btn-select:hover{
+    background-color: rgb(100, 158, 170);
+}

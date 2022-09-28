@@ -1,0 +1,28 @@
+.leagues-container{
+    background-color: rgb(80, 135, 158);
+    padding: 10px 10px;
+    color: rgb(204, 209, 210);
+}
+.leagues-items{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.leagues-container h2{
+    width: 80%;
+    background-color: rgb(39, 88, 109);
+    color: rgb(179, 183, 183);
+    margin: 20px auto;
+    padding: 20px 0px;
+}
+
+.leagues-list{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+.select-items-container{
+    background-color: rgb(52, 101, 122);
+    margin: 0px 10px;
+    padding: 0px 10px;
+}
